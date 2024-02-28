@@ -1,0 +1,1 @@
+This project is a web-based chat application developed using React for the frontend, Node.js for the backend, and MySQL for the database. The main features include adding users, creating conversations, and chatting with vonage comunication api.
